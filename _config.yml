@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DSC 40A
-description: DSC 40A, Summer 2026 at UC San Diego
-tagline: Theoretical Foundations of Data Science I
-baseurl: '/DSC40A-SU26' # the subpath of your site, e.g. /blog
+title: DSC 40BR
+description: DSC 40BR, Summer 2026 at UC San Diego
+tagline: Theoretical Foundations of Data Science II
+baseurl: '/DSC40B-SU26' # the subpath of your site, e.g. /blog
 url: 'https://github.com/dsc-courses' # the base hostname & protocol for your site, e.g. http://example.com
-author: DSC 40A course staff
+author: DSC 40BR course staff
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
@@ -28,18 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  🙋 PIAZZA:
+  🙋 Piazza:
     - 'https://piazza.com/class/mqzuizbulee109/post/6'
   💯 Gradescope:
     - 'https://www.gradescope.com/'
-  💪 Practice:
-    - 'https://practice.dsc40a.com'
-  ⏳ Extensions:
-    - 'https://docs.google.com/forms/d/e/1FAIpQLScSMdtIMM5u6rg5RIXw1AJBrSnVnyTXYFlPna2tHO3T0f1ZSg/viewform?usp=publish-editor'
-  📋 Anonymous Feedback Form:
-    - 'https://docs.google.com/forms/d/e/1FAIpQLSePKrlPODYs4YxJhjf_oZxO1ZlR53ZQCh8b9ll4Bv2SBY6sYw/viewform?usp=publish-editor'
-  # 🤔 Lecture Questions:
-  #   - ''
 footer_content:
 
 # Collections for website data

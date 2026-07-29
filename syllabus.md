@@ -50,12 +50,12 @@ Please don't email staff members (and don't message them on social media), just 
 
 We will be using several websites this quarter. Here's what they're all used for:
 
-- [Course Website](https://dsc40b.com): The single source of truth for all course content. This includes lecture recordings, assignment specs, deadlines, schedule, practice problems, and past exams (even though these will be limited in assistance).
-- [Course Notes](https://dsc40b.com/materials/default/notes/book.pdf): The official course notes, written by Justin Eldridge. You should refer to these throughout the quarter, as the content reflects what is covered here.
+- [Course Website](https://dsc40br.com): The single source of truth for all course content. This includes lecture recordings, assignment specs, deadlines, schedule, practice problems, and past exams (even though these will be limited in assistance).
+- [Course Notes](https://dsc40br.com/materials/default/notes/book.pdf): The official course notes, written by Justin Eldridge. You should refer to these throughout the quarter, as the content reflects what is covered here.
 - [Piazza](): Discussion forum for announcements and communication.
 - [Gradescope](https://www.gradescope.com): Platform for submitting assignments and viewing grades. You should be automatically added to Gradescope within 24 hours of enrolling.
 
-**Canvas is used solely as the gradebook. All course content, deadlines, and announcements live on [dsc40b.com](https://dsc40b.com) and Piazza.**
+**Canvas is used solely as the gradebook. All course content, deadlines, and announcements live on [dsc40br.com](https://dsc40br.com) and Piazza.**
 
 ---
 
@@ -65,15 +65,15 @@ This course is **fully asynchronous and remote**. There are no synchronous lectu
 
 ### Lectures
 
-Lectures are pre-recorded and posted on [dsc40b.com](https://dsc40b.com). Each lecture is split into **2–3 short modules** designed for focused viewing and easy re-watching. A typical lecture consists of:
+Lectures are pre-recorded and posted on [dsc40br.com](https://dsc40br.com). Each lecture is split into **2–3 short modules** designed for focused viewing and easy re-watching. A typical lecture consists of:
 
 - **Module A (15–20 min):** Motivation, definitions, and the core idea.
 - **Module B (20–25 min):** Algorithm/proof mechanics: pseudocode, correctness arguments, complexity derivation.
 - **Module C (10–15 min, when applicable):** Worked examples, edge cases, and exam-style problems.
 
-There are **17 lectures** spread across 5 weeks. The schedule and all recordings are available on the [course homepage](https://dsc40b.com).
+There are **17 lectures** spread across 5 weeks. The schedule and all recordings are available on the [course homepage](https://dsc40br.com).
 
-You are expected to watch all lecture modules and complete the associated readings from the [course notes](https://dsc40b.com/materials/default/notes/book.pdf) before attempting that week's homework.
+You are expected to watch all lecture modules and complete the associated readings from the [course notes](https://dsc40br.com/materials/default/notes/book.pdf) before attempting that week's homework.
 
 ### Homeworks
 
@@ -102,7 +102,7 @@ To get help on assignments and concepts, course staff will be hosting office hou
 
 Tutors will also actively monitor Piazza throughout the week.
 
-The homework assignments for this class are challenging and most students are not able to successfully complete them from watching lectures alone. Make sure to use the [course notes](https://dsc40b.com/materials/default/notes/book.pdf), the [practice problems](https://dsc40b.com/practice/index.html), and book office hours if you need them! We are here to help you.
+The homework assignments for this class are challenging and most students are not able to successfully complete them from watching lectures alone. Make sure to use the [course notes](https://dsc40br.com/materials/default/notes/book.pdf), the [practice problems](https://dsc40br.com/practice/index.html), and book office hours if you need them! We are here to help you.
 
 ### Weekly Schedule
 
@@ -110,7 +110,7 @@ The homework assignments for this class are challenging and most students are no
 | -- | -- | -- | -- | -- | -- | -- |
 | | | **HW released 9:00 AM** | | | **HW due 11:59 PM** | |
 
-All deadlines are in **Pacific Time (PT)**. The most up-to-date schedule is always on the [course homepage](https://dsc40b.com).
+All deadlines are in **Pacific Time (PT)**. The most up-to-date schedule is always on the [course homepage](https://dsc40br.com).
 
 ---
 
