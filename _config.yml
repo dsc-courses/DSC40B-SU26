@@ -16,8 +16,8 @@
 title: DSC 40BR
 description: DSC 40BR, Summer 2026 at UC San Diego
 tagline: Theoretical Foundations of Data Science II
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://dsc40br.com' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/DSC40B-SU26' # the subpath of your site, e.g. /blog
+url: 'https://github.com/dsc-courses' # the base hostname & protocol for your site, e.g. http://example.com
 author: DSC 40BR course staff
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
