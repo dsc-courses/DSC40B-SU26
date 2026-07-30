@@ -16,10 +16,6 @@ nav_order: 1
 <!-- {: .red }
 > This website is still under construction and subject to change. Please keep an eye out for communication from staff. -->
 
-{: .green }
-> Here's what you need to know:
-> - Lecture starts on Monday, July 29th on Zoom. If you are enrolled, you should haved recieved a zoom link via email or can find one at PIAZZA.
-> - Read the syllabus.
 
 <!-- [Jump to the current week](#week-5){: .btn } [Assignment Solutions](){: .btn .btn-purple } -->
 

@@ -4,7 +4,7 @@ role: Instructor
 pronouns: he/him
 email: brosca@ucsd.edu
 # website: https://rampure.org/
-photo: assets/staff-images/brian.JPG
+photo: assets/staff-images/brian.jpg
 oh: Community OH -- 2:00-2:30pm Mondays after lecture; Appointments here
 description: MS, BS Computer Science, University of Illinois Chicago
 hometown: Chicago, IL

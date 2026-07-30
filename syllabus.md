@@ -22,25 +22,27 @@ description: Course structure and policies.
 
 ## About 
 
-A computer does not rise to the level of its hardware. It falls to the level of its algorithms.
- 
-You can double your RAM, upgrade your GPU, and spin up a hundred machines in the cloud, but if the algorithm underneath is doing redundant work, none of that matters. A well-chosen algorithm on a modest laptop will outperform a brute-force approach on a supercomputer. This is not a theoretical claim. It is an everyday reality.
- 
-The world already knows this. The route that gets a package from a warehouse to your door same-day is not the obvious one. That was from an algorithm that weighs distance, truck capacity, traffic patterns, and thousands of other vectors.  The internet itself runs on graph algorithms designed decades ago (and one in particular stood the test of time for 70 years until it was broken just last year-- more on that later). Simply put, when algorithms work, they are invisible to most of the world. When they don't, there are consequences (see: [Knight Capital](https://www.henricodolfing.ch/en/case-study-4-the-440-million-software-error-at-knight-capital/) and [Ofqual](https://www.bristol.ac.uk/cmm/research/grade/)).
+A computer does not rise to the level of its hardware. It falls to the level of its algorithms. *Bonus points if you know the book I'm referencing.*
+
+Double your RAM, upgrade your GPU, provision a hundred machines in the cloud-- if the algorithm underneath is doing redundant work, you've bought a constant factor against a problem that grows without one. At scale, a well-chosen algorithm on a laptop beats brute force on a supercomputer. This is not a theoretical claim; it's arithmetic.
+
+The world already runs on this fact. The route that gets a package to your door same-day was chosen by an algorithm weighing distance, truck capacity, and traffic across thousands of variables. The internet routes traffic with graph algorithms designed decades ago (one of which held the crown for nearly 70 years, until last year-- more on that later). When algorithms work, they're invisible. When they don't, there are consequences (see: [Ofqual](https://www.bristol.ac.uk/cmm/research/grade/)).
  
 DSC 40B is about the building blocks: how to analyze whether an algorithm is fast or slow, how to choose the right data structure for the job, and how to reason about tradeoffs like simplicity versus performance and/or exact answers versus good-enough approximations. These are not just computer science questions. They are design decisions that shape what is computationally possible.
  
 Your job as a data scientist is different from that of a software engineer. A software engineer might implement a hash table; you need to know *when* a hash table is the right choice and what breaks when it isn't. A software engineer might optimize a sorting routine; you need to know *why* the problem requires sorting in the first place, and whether a different formulation avoids it entirely. This course moves between both perspectives because in practice, you will need to do both.
 
+One more thing. You will use generative AI to write code, both in this course and in your career. Used well, it is clearly a force multiplier. But these models are trained on an internet full of code that was written to *work*, not to *scale*, and they tend to reach for the most common solution rather than the right one for your constraints. The model will happily hand you an O(n²) loop where an O(n log n) approach exists, and it will not warn you, because it doesn't know your n. At big-data scale, that gap is the difference between a minute and days.
+
 ---
 
 ## Communication 
 
-This quarter, we'll be using [Piazza]() as our course message board. You should be added to Piazza automatically; if not, join using this link. Please join right away as we'll be making all course announcements through Piazza.
+This quarter, we'll be using [Piazza]() as our course message board. You should be added to Piazza automatically; if not, join using [this link](https://piazza.com/ucsd/summer2026/dsc40b). Please join right away as we'll be making all course announcements through Piazza.
 
 If you have a question about anything to do with the course (you're stuck on a problem, didn't understand something from lecture, want clarification on course logistics), you can make a post on Piazza. We only ask that if your question includes some or all of an answer (even if you're not sure it's right), please make your post private so that others cannot see it. You can also post anonymously if you would prefer.
 
-Course staff will regularly check Piazza and try to answer any questions that you have. You're also encouraged to answer questions asked by other students. Fun fact: this was what I started out doing as I made my way from student -> TA -> head TA -> instructor!
+Course staff will regularly check Piazza and try to answer any questions that you have. You're also encouraged to answer questions asked by other students. *Fun fact: this was what I started out doing as I made my way from student -> TA -> head TA -> instructor!*
 
 Please don't email staff members (and don't message them on social media), just make a private or public Piazza post instead!
 
@@ -50,12 +52,12 @@ Please don't email staff members (and don't message them on social media), just 
 
 We will be using several websites this quarter. Here's what they're all used for:
 
-- [Course Website](https://dsc40br.com): The single source of truth for all course content. This includes lecture recordings, assignment specs, deadlines, schedule, practice problems, and past exams (even though these will be limited in assistance).
-- [Course Notes](https://dsc40br.com/materials/default/notes/book.pdf): The official course notes, written by Justin Eldridge. You should refer to these throughout the quarter, as the content reflects what is covered here.
+- [Course Website](https://dsc-courses.github.io/DSC40B-SU26/): The single source of truth for all course content. This includes lecture recordings, assignment specs, deadlines, schedule, practice problems, and past exams (even though these will be limited in assistance).
+- [Course Notes](https://dsc40b.com/materials/default/notes/book.pdf): The official course notes, written by Justin Eldridge. You should refer to these throughout the quarter, as the content reflects what is covered here.
 - [Piazza](): Discussion forum for announcements and communication.
 - [Gradescope](https://www.gradescope.com): Platform for submitting assignments and viewing grades. You should be automatically added to Gradescope within 24 hours of enrolling.
 
-**Canvas is used solely as the gradebook. All course content, deadlines, and announcements live on [dsc40br.com](https://dsc40br.com) and Piazza.**
+**Canvas is not being used this quarter. All course content, deadlines, and announcements live on [the course website](https://dsc-courses.github.io/DSC40B-SU26/) and Piazza.**
 
 ---
 
@@ -65,22 +67,24 @@ This course is **fully asynchronous and remote**. There are no synchronous lectu
 
 ### Lectures
 
-Lectures are pre-recorded and posted on [dsc40br.com](https://dsc40br.com). Each lecture is split into **2–3 short modules** designed for focused viewing and easy re-watching. A typical lecture consists of:
+Lectures are pre-recorded and posted on [the course website](https://dsc-courses.github.io/DSC40B-SU26/). Each lecture is split into **2–3 short modules** designed for focused viewing and easy re-watching. A typical lecture consists of:
 
 - **Module A (15–20 min):** Motivation, definitions, and the core idea.
 - **Module B (20–25 min):** Algorithm/proof mechanics: pseudocode, correctness arguments, complexity derivation.
 - **Module C (10–15 min, when applicable):** Worked examples, edge cases, and exam-style problems.
 
-There are **17 lectures** spread across 5 weeks. The schedule and all recordings are available on the [course homepage](https://dsc40br.com).
+There are **18 lectures** spread across 5 weeks. The schedule and all recordings are available on the [course homepage](https://dsc-courses.github.io/DSC40B-SU26/).
 
-You are expected to watch all lecture modules and complete the associated readings from the [course notes](https://dsc40br.com/materials/default/notes/book.pdf) before attempting that week's homework.
+**Each week's lectures are released on Monday at 9:00 AM PT.** That week's homework is then released the following day (Tuesday) — see the Homeworks section below.
+
+You are expected to watch all lecture modules and complete the associated readings from the [course notes](https://dsc40b.com/materials/default/notes/book.pdf) before attempting that week's homework.
 
 ### Homeworks
 
 There are **5 homework assignments** this quarter, one per week. Homeworks are the primary way you will engage with and demonstrate mastery of the material.
 
 - **Released:** Tuesdays at 9:00 AM PT
-- **Due:** Fridays at 11:59 PM PT
+- **Due:** Saturdays at 11:59 PM PT
 - **Submission:** Gradescope
 
 **Homeworks must be typed.** You may use whatever typesetting system you prefer, whether that is Google Docs, Microsoft Word, LaTeX, etc. Since much of your academic journey will involve writing papers and using LaTeX, you are encouraged to take this quarter as an opportunity to learn the basics. Before Homework 1 is released, I will provide a LaTeX template applicable to all homeworks, along with instructions for how to use and deploy it.
@@ -102,15 +106,15 @@ To get help on assignments and concepts, course staff will be hosting office hou
 
 Tutors will also actively monitor Piazza throughout the week.
 
-The homework assignments for this class are challenging and most students are not able to successfully complete them from watching lectures alone. Make sure to use the [course notes](https://dsc40br.com/materials/default/notes/book.pdf), the [practice problems](https://dsc40br.com/practice/index.html), and book office hours if you need them! We are here to help you.
+The homework assignments for this class are challenging and most students are not able to successfully complete them from watching lectures alone. Make sure to use the [course notes](https://dsc40b.com/materials/default/notes/book.pdf), the [practice problems](https://dsc40b.com/practice/index.html), and book office hours if you need them! We are here to help you.
 
 ### Weekly Schedule
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | -- | -- | -- | -- | -- | -- | -- |
-| | | **HW released 9:00 AM** | | | **HW due 11:59 PM** | |
+| | **Lectures released 9:00 AM** | **HW released 9:00 AM** | | | | **HW due 11:59 PM** |
 
-All deadlines are in **Pacific Time (PT)**. The most up-to-date schedule is always on the [course homepage](https://dsc40br.com).
+All deadlines are in **Pacific Time (PT)**. The most up-to-date schedule is always on the [course homepage](https://dsc-courses.github.io/DSC40B-SU26/).
 
 ---
 
@@ -138,7 +142,6 @@ This is not a syntax test. We are evaluating your ability to:
 - **Demonstrate intuition**: whether on a code editor, paper, or whiteboard.
 - **Justify your approach**: explain *why*, not just *what*.
 
-Each question has its own rubric calibrated to its difficulty. The full rubric will be provided before the exam (details TBD).
 
 ### Preparation
 
@@ -176,7 +179,7 @@ Instead, if you need extra time on an assignment, you can request an extension [
 
 **NOTE** No extension requests after the 11:59pm deadline of the respective assignment will be accepted other than in extreme circumstances at the discretion of the instructor. So again, please request extensions sooner rather than later so you don't miss this deadline.
 
-**NOTE** The last deadline by which we will accept any work from this semester is TBD (the day of the final exam). After this deadline no work will be accepted because we need to submit final grades.
+**NOTE** The last deadline by which we will accept any work from this quarter is TBD (the day of the final exam). After this deadline no work will be accepted because we need to submit final grades.
 
 **If you have something going on in your life that is impeding your ability to do your classwork on time, please reach out to us as soon as possible so we can work something out.**
 
@@ -223,7 +226,7 @@ _The following is adapted from [CSE 160](https://courses.cs.washington.edu/cours
 
 My goal is to ensure that the assessment of your learning in this course is comprehensive, impartial, and equitable. Your grade in the class will be based on the number of points you earn out of the total number of points possible, and is not based on your rank relative to other students. There are no set limits to the number of grades given (e.g., everyone can get an A if everyone does well).
 
-Under no circumstances will grades be adjusted down (except in cases of course policy violation). You can use this straight grading scale as an indicator of your minimum grade in the course at any time during the course. You should keep track of your own points so that at any time during the semester you may calculate your minimum grade based on the total number of points possible at that particular time. If and when, for any reason, you have concerns about your grade in the course, please email me to schedule a time for you to speak with me so that we can discuss study techniques or alternative strategies to help you.
+Under no circumstances will grades be adjusted down (except in cases of course policy violation). You can use this straight grading scale as an indicator of your minimum grade in the course at any time during the course. You should keep track of your own points so that at any time during the quarter you may calculate your minimum grade based on the total number of points possible at that particular time. If and when, for any reason, you have concerns about your grade in the course, please email me to schedule a time for you to speak with me so that we can discuss study techniques or alternative strategies to help you.
 
 ---
 

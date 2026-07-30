@@ -19,7 +19,8 @@ tagline: Theoretical Foundations of Data Science II
 baseurl: '/DSC40B-SU26' # the subpath of your site, e.g. /blog
 url: 'https://github.com/dsc-courses' # the base hostname & protocol for your site, e.g. http://example.com
 author: DSC 40BR course staff
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+notes_book_url: 'https://dsc40b.com/materials/default/notes/book.pdf'
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "docs"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
@@ -28,8 +29,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  📓 Course Notes:
+    - 'https://dsc40b.com/materials/default/notes/book.pdf'
   🙋 Piazza:
-    - 'https://piazza.com/class/mqzuizbulee109/post/6'
+    - 'https://piazza.com/class/ms5eeiqtwiek1'
   💯 Gradescope:
     - 'https://www.gradescope.com/'
 footer_content:
@@ -37,7 +40,6 @@ footer_content:
 # Collections for website data
 collections:
   staffers:
-  advicers:
   staffersnobio:
   modules:
   schedules:
@@ -49,12 +51,6 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/images/'
-  - scope:
-      path: ''
-      type: advicers
-    values:
-      layout: advicer
       subpath: '/assets/images/'
   - scope:
       path: ''

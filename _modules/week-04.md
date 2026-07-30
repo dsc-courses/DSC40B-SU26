@@ -1,42 +1,25 @@
 ---
-title: "Week 4 – Probability, Combinatorics, and Independence<br><small>📘 Read <a href='resources/#probability-roadmap'>Janine's probability roadmap</a> and <a href='http://stat88.org/textbook/content/intro.html'>Chapters 1 and 2 of this probability textbook</a>.</small>"
+title: "Week 4 – Graph Search and Shortest Paths"
 weekNumber: 4
 days:
-  - date: "2026-07-20"
+  - date: "2026-08-24"
     events:
-      - name: LEC 6
+      - name: LEC 12
         type: lecture
-        title: Gradient Descent; Foundations of Probability; Combinatorics
-        blank: resources/lectures/lec06/lec06-blank.pdf
-        filled: resources/lectures/lec06/lec06-filled.pdf
-        podcast: 
-        reading: 
-  - date: "2026-07-21"
-    events:
-      - name: HW 5
-        type: hw
-        title: Homework 5 Due
-        problems: resources/homeworks/homework5.pdf
-  - date: "2026-07-22"
-    events:
-      - name: LEC 7
+        title: BFS shortest path
+      - name: LEC 13
         type: lecture
-        title: More Combinatorics Examples; Bayes' Theorem and Independence
-        blank: resources/lectures/lec07/lec07-blank.pdf
-        filled: resources/lectures/lec07/lec07-filled.pdf
-        # podcast: 
-  - date: "2026-07-23"
+        title: DFS
+        reading: "3.4"
+      - name: LEC 14
+        type: lecture
+        title: Bellman-Ford
+      - name: LEC 15
+        type: lecture
+        title: Dijkstra
+  - date: "2026-08-29"
     events:
-      - name: DISC 3
-        type: disc
-        title: Groupwork 3 Due
-        # problems: resources/groupworks/gw03.pdf
-        template: 
-        # walkthrough: 
-  - date: "2026-07-24"
-    events:
-      - name: HW 6
+      - name: HW 4
         type: hw
-        title: Homework 6 Due
-        # problems: resources/homeworks/hw01.pdf
+        title: Homework 4 Due (11:59 PM PT)
 ---

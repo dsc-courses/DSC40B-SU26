@@ -44,15 +44,17 @@
                 {%- if event.videos -%}
                 <small>&nbsp;&nbsp;<a href="{{ event.videos }}"><button type="button" class="btn btn-info">⏯️ extra videos</button></a></small>
                 {%- endif -%}
-                {%- if event.faqs -%}
-                <small>&nbsp;&nbsp;<a href="{{ event.faqs }}"><button type="button" class="btn btn-info">🙋 FAQs</button></a></small>
-                {%- endif -%}
                 {%- if event.formatting -%}
                 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <small>&nbsp;&nbsp;<a href="{{ event.formatting }}"><button type="button" class="btn btn-info">✍️ formatting guide</button></a></small>
                 {%- endif -%}
                 {%- if event.proctoring -%}
                 <small>&nbsp;&nbsp;<a href="{{ event.proctoring }}"><button type="button" class="btn btn-info">ℹ️ proctoring info</button></a></small>
+                {%- endif -%}
+                {%- if event.reading -%}
+                <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <small>📘 Read <a href="{{ site.notes_book_url }}">Notes §{{ event.reading }}</a> of the course notes.</small>
                 {%- endif -%}
               {%- endif -%}
               {%- if event.type == "hw" or event.type == "disc" -%}
