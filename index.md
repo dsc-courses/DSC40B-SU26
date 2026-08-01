@@ -13,6 +13,13 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
+{: .green }
+> **LaTeX Homework Template**
+>
+> Homeworks must be typed. To help you get started with LaTeX, here's a template that applies to all homeworks this quarter.
+>
+> <a href="{{ site.baseurl }}/resources/example_template.tex" download class="btn btn-green"> Download LaTeX template</a>
+
 <!-- {: .red }
 > This website is still under construction and subject to change. Please keep an eye out for communication from staff. -->
 
