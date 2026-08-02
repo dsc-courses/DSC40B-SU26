@@ -67,7 +67,7 @@ This course is **fully asynchronous and remote**. There are no synchronous lectu
 
 ### Lectures
 
-Lectures are pre-recorded and posted on [the course website](https://dsc-courses.github.io/DSC40B-SU26/). Each lecture is split into **2–3 short modules** designed for focused viewing and easy re-watching. A typical lecture consists of:
+Lectures are pre-recorded and posted on [the course website](https://dsc-courses.github.io/DSC40B-SU26/). Each lecture video is split into **2–3 short modules** (sections) designed for focused viewing and easy re-watching. A typical lecture consists of:
 
 - **Module A (15–20 min):** Motivation, definitions, and the core idea.
 - **Module B (20–25 min):** Algorithm/proof mechanics: pseudocode, correctness arguments, complexity derivation.
@@ -77,7 +77,7 @@ There are **18 lectures** spread across 5 weeks. The schedule and all recordings
 
 **Each week's lectures are released on Monday at 9:00 AM PT.** That week's homework is then released the following day (Tuesday) — see the Homeworks section below.
 
-You are expected to watch all lecture modules and complete the associated readings from the [course notes](https://dsc40b.com/materials/default/notes/book.pdf) before attempting that week's homework.
+You are expected to watch all lecture modules and complete the associated readings from the [course notes](https://dsc40b.com/materials/default/notes/book.pdf) each week. You may be able to start the homework after watching half of the lectures, but finishing the homework will require knowledge from all lectures.
 
 ### Homeworks
 
@@ -87,11 +87,9 @@ There are **5 homework assignments** this quarter, one per week. Homeworks are t
 - **Due:** Saturdays at 11:59 PM PT
 - **Submission:** Gradescope
 
-**Homeworks must be typed.** You may use whatever typesetting system you prefer, whether that is Google Docs, Microsoft Word, LaTeX, etc. Since much of your academic journey will involve writing papers and using LaTeX, you are encouraged to take this quarter as an opportunity to learn the basics. Before Homework 1 is released, I will provide a LaTeX template applicable to all homeworks, along with instructions for how to use and deploy it.
+**Homeworks must be typed.** You may use whatever typesetting system you prefer, whether that is Google Docs, Microsoft Word, LaTeX, etc. Since much of your academic journey will involve writing papers and using LaTeX, you are encouraged to take this quarter as an opportunity to learn the basics. [Here is a link on how to submit using Overleaf, a LaTeX compiler](https://www.youtube.com/watch?v=xcTN4F3l9Ds). You may find the LaTeX template on the Homepage.
 
 **If you submit a handwritten homework, you will receive one warning. Any subsequent handwritten submission will incur a 25% penalty.**
-
-Homework grading will involve Gradescope autograding (details TBD).
 
 You may talk to other students in the class about the problems and discuss solution strategies, but you should not share any written communication. You can tell someone how to do a homework problem, but you cannot show them how to do it. The content of your collaboration should involve problem-solving strategy and approach, and you should not directly compare answers with classmates.
 

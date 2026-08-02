@@ -7,11 +7,11 @@ days:
       - name: LEC 1
         type: lecture
         title: Intro
-        reading: "1.6"
+        reading: "1.1-1.3"
       - name: LEC 2
         type: lecture
         title: Complexity I
-        reading: "1.1–1.4"
+        reading: "1.4"
       - name: LEC 3
         type: lecture
         title: Complexity II
