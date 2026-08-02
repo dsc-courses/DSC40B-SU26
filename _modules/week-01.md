@@ -14,12 +14,8 @@ days:
         reading: "1.4"
       - name: LEC 3
         type: lecture
-        title: Complexity II
-        reading: "1.5"
-      - name: LEC 4
-        type: lecture
-        title: Best/Worst/Avg
-        reading: "1.5"
+        title: Complexity II and Best/Avg/Worst
+        reading: "1.5-1.6"
   - date: "2026-08-08"
     events:
       - name: HW 1

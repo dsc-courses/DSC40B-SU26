@@ -4,14 +4,14 @@ weekNumber: 3
 days:
   - date: "2026-08-17"
     events:
-      - name: LEC 9
+      - name: LEC 8
         type: lecture
         title: Hashing
-      - name: LEC 10
+      - name: LEC 9
         type: lecture
         title: Graph theory
         reading: "3.1–3.2"
-      - name: LEC 11
+      - name: LEC 10
         type: lecture
         title: BFS
         reading: "3.3"

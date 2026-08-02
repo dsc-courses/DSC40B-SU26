@@ -4,13 +4,13 @@ weekNumber: 5
 days:
   - date: "2026-08-31"
     events:
-      - name: LEC 16
+      - name: LEC 15
         type: lecture
         title: Prim
-      - name: LEC 17
+      - name: LEC 16
         type: lecture
         title: Kruskal
-      - name: LEC 18
+      - name: LEC 17
         type: lecture
         title: NP completeness*
   - date: "2026-09-05"
