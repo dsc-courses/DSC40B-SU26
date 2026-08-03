@@ -24,13 +24,16 @@
                 {%- if event.blank -%}
                 <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <small><a href="{{ event.blank }}"><button type="button" class="btn btn-info">🌗 blank</button></a></small>
+                <small><a href="{{ event.blank }}"><button type="button" class="btn btn-info"> blank notes</button></a></small>
                 {%- endif -%}
                 {%- if event.filled -%}
-                <small>&nbsp;&nbsp;<a href="{{ event.filled }}"><button type="button" class="btn btn-info">📝 filled</button></a></small>
+                <small>&nbsp;&nbsp;<a href="{{ event.filled }}"><button type="button" class="btn btn-info">inked notes</button></a></small>
+                {%- endif -%}
+                {%- if event.video -%}
+                <small>&nbsp;&nbsp;<a href="{{ event.video }}"><button type="button" class="btn btn-info">lecture video</button></a></small>
                 {%- endif -%}
                 {%- if event.code -%}
-                <small>&nbsp;&nbsp;<a href="{{ event.code }}"><button type="button" class="btn btn-info">💻 code</button></a></small>
+                <small>&nbsp;&nbsp;<a href="{{ event.code }}"><button type="button" class="btn btn-info">code</button></a></small>
                 {%- endif -%}
                 {%- if event.codingfiles -%}
                 <small>&nbsp;&nbsp;<a href="{{ event.codingfiles }}"><button type="button" class="btn btn-info">📂 coding files</button></a></small>
