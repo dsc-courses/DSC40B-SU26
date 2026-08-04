@@ -25,6 +25,12 @@ days:
         filled: resources/lectures/lec03/Lecture_03_inked.pdf
         video:   https://youtu.be/dhBdKALTmog
         reading: "1.5-1.6"
+  - date: "2026-08-04"
+    events:
+      - name: HW 1
+        type: hw
+        title: Homework 1
+        problems: resources/homeworks/hw1.pdf
   - date: "2026-08-08"
     events:
       - name: HW 1
