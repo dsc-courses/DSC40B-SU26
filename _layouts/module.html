@@ -57,23 +57,23 @@
                 {%- if event.reading -%}
                 <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <small>📘 Read <a href="{{ site.notes_book_url }}">Notes §{{ event.reading }}</a> of the course notes.</small>
+                <small>Read <a href="{{ site.notes_book_url }}">Notes §{{ event.reading }}</a> of the course notes.</small>
                 {%- endif -%}
               {%- endif -%}
               {%- if event.type == "hw" or event.type == "disc" -%}
                 {%- if event.problems -%}
                 <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <small><a href="{{ event.problems }}"><button type="button" class="btn btn-info">📄 problems</button></a></small>
+                <small><a href="{{ event.problems }}"><button type="button" class="btn btn-info">problems</button></a></small>
                 {%- endif -%}
                 {%- if event.template -%}
-                <small>&nbsp;&nbsp;<a href="{{ event.template }}"><button type="button" class="btn btn-info">🍃 template</button></a></small>
+                <small>&nbsp;&nbsp;<a href="{{ event.template }}"><button type="button" class="btn btn-info">template</button></a></small>
                 {%- endif -%}
                 {%- if event.walkthrough -%}
-                <small>&nbsp;&nbsp;<a href="{{ event.walkthrough }}"><button type="button" class="btn btn-info">🎥 walkthrough</button></a></small>
+                <small>&nbsp;&nbsp;<a href="{{ event.walkthrough }}"><button type="button" class="btn btn-info">walkthrough</button></a></small>
                 {%- endif -%}
                 {%- if event.solutions -%}
-                <small>&nbsp;&nbsp;<a href="{{ event.solutions }}"><button type="button" class="btn btn-info">📝 solutions</button></a></small>
+                <small>&nbsp;&nbsp;<a href="{{ event.solutions }}"><button type="button" class="btn btn-info">solutions</button></a></small>
                 {%- endif -%}
               {%- endif -%}
             </p>
