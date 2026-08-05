@@ -1,20 +1,26 @@
 ---
 layout: default
-title: 📝 Office Hours
+title: Office Hours
 nav_order: 3
 description: Office hours links.
 ---
 
-# 📝 Office Hours
+# Office Hours
 {:.no_toc}
 
+<iframe src="https://calendar.google.com/calendar/embed?src=c_8fd10722bb7bea02c62adb036975fa4680c95565e63a88d6fb910c7d63938377%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0; width: 100%; max-width: 800px; height: 600px;" frameborder="0" scrolling="no"></iframe>
 
-To get help on assignments and concepts, course staff will be hosting several office hours per week. 
+Every week, Brian and the tutors hold regularly scheduled office hours throughout the week. They're all on Zoom- the links are in the calendar above, or you can find them below: 
 
-There will be two types of office hours offered this summer:
-1. Community office hours: Once a week, there will be a 30 minute open zoom session at 2:00PM on Mondays right after lecture (in the lecture zoom meeting) for anyone to join! This is a great way to meet new students in the course, collaborate, and get to know staff members in a casual setting. This is the equivalent of Jordan sitting in her office with the door open. If this timing doesn’t work for you, feel free to sign up for a meeting using option #2. Jordan is also happy to organize more at a different time if there is demand.
-2. Individual or group office hours: These will take place in the form of google calendar appointments. You may schedule as many of these as you feel necessary, up to 3, throughout the week with either member of staff. These will be 10-15 minute appointments that you and whoever else you’d like may show up to. The goal with holding office hours this way is so that staff doesn’t waste precious work time waiting in an empty zoom room :(( and so students can have individual staff time. These are the office hours you should use if you have a personal or logistical question that can’t be answered over PIAZZA or email. 
-    * Brian's [appointment schedule link](insert-link-here) TODO
-    * Tutor’s [appointment schedule link](insert-link-here) TODO
+[Brian's Zoom](https://ucsd.zoom.us/j/6594813093)
 
-Office hours are being under utilised more than ever, please take advantage of the time staff is offering you. Research shows that using OH helps succeed in computer science courses. We are here to help! 
+[Maggie's Zoom](https://ucsd.zoom.us/j/94696913794)
+
+[Isabella's Zoom](insert-link-here) TODO.
+
+[Aryan's Zoom](insert-link-here) TODO.
+
+If none of these times work for you, you can schedule a 30 minute Zoom meeting with any of us at any point. Just email us or make a private Piazza post to sort out timing, since our availability outside of scheduled hours varies, so the booking page won't always be a reliable source of truth.
+
+
+

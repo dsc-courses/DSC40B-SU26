@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 📖 Syllabus
+title: Syllabus
 nav_order: 2
 description: Course structure and policies.
 ---
 
-# 📖 Syllabus
+# Syllabus
 {:.no_toc}
 
 
