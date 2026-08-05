@@ -18,6 +18,10 @@ days:
         filled: resources/lectures/lec02/Lecture_02_inked.pdf
         video:   https://youtu.be/tpHPN0-E3F8
         reading: "1.4"
+      - name: LEC 2
+        type: lecture
+        title: (Complexity I, Remaining Video)
+        video:   https://www.youtube.com/watch?v=w0ruHrPPHh8
       - name: LEC 3
         type: lecture
         title: Complexity II and Best/Avg/Worst
