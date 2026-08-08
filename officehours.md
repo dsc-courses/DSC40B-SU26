@@ -16,6 +16,8 @@ Every week, Brian and the Tutors hold office hours. Do note that they are subjec
 
 [Aryan's Zoom](https://ucsd.zoom.us/j/2490726830)
 
+[Coleman's Zoom](https://ucsd.zoom.us/j/99723492814)
+
 [Isabella's Zoom](https://us04web.zoom.us/j/79200689024?pwd=fx3yYfil3adLMGBlubcjEcxhS8iuvv.1)
 
 [Maggie's Zoom](https://ucsd.zoom.us/j/94696913794)
