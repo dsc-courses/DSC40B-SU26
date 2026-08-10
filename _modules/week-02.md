@@ -7,6 +7,9 @@ days:
       - name: LEC 4
         type: lecture
         title: Bin search + recurrences
+        blank: resources/lectures/lec04/Lecture_04_blank.pdf
+        filled: resources/lectures/lec04/Lecture_04_inked.pdf
+        video:   https://youtu.be/EMSRIVWwlrQ
         reading: "2.4"
       - name: LEC 5
         type: lecture
