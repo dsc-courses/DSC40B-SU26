@@ -75,7 +75,7 @@ Lectures are pre-recorded and posted on [the course website](https://dsc-courses
 
 There are **18 lectures** spread across 5 weeks. The schedule and all recordings are available on the [course homepage](https://dsc-courses.github.io/DSC40B-SU26/).
 
-**Each week's lectures are released on Monday at 9:00 AM PT.** That week's homework is then released the following day (Tuesday) — see the Homeworks section below.
+**Each week's lectures are released in two batches, twice a week: Monday at 9:00 AM PT and Wednesday at 9:00 AM PT.** That week's homework is released on Tuesday (see the Homeworks section below.)
 
 You are expected to watch all lecture modules and complete the associated readings from the [course notes](https://dsc40b.com/materials/default/notes/book.pdf) each week. You may be able to start the homework after watching half of the lectures, but finishing the homework will require knowledge from all lectures.
 
@@ -110,7 +110,7 @@ The homework assignments for this class are challenging and most students are no
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | -- | -- | -- | -- | -- | -- | -- |
-| | **Lectures released 9:00 AM** | **HW released 9:00 AM** | | | | **HW due 11:59 PM** |
+| | **Lectures released 12:00 PM** | **HW released 12:00 PM** | **Lectures released 12:00 PM** | | | **HW due 11:59 PM** |
 
 All deadlines are in **Pacific Time (PT)**. The most up-to-date schedule is always on the [course homepage](https://dsc-courses.github.io/DSC40B-SU26/).
 

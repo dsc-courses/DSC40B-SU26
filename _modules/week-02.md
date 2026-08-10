@@ -10,11 +10,13 @@ days:
         reading: "2.4"
       - name: LEC 5
         type: lecture
-        title: Sorting
+        title: Sorting I
         reading: "2.1, 2.3"
+  - date: "2026-08-12"
+    events:
       - name: LEC 6
         type: lecture
-        title: Quickselect
+        title: Sorting II
       - name: LEC 7
         type: lecture
         title: BSTs
