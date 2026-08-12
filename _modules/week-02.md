@@ -34,7 +34,7 @@ days:
         video:   https://youtu.be/BCDitxRKODI
       - name: LEC 7
         type: lecture
-        title: Sorting III
+        title: Sorting III (give me 4 hours, last minute change!)
   - date: "2026-08-15"
     events:
       - name: HW 2
