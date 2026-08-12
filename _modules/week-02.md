@@ -29,9 +29,12 @@ days:
       - name: LEC 6
         type: lecture
         title: Sorting II
+        blank: resources/lectures/lec06/Lecture_06_blank.pdf
+        filled: resources/lectures/lec06/Lecture_06_inked.pdf
+        video:   https://youtu.be/BCDitxRKODI
       - name: LEC 7
         type: lecture
-        title: BSTs
+        title: Sorting III
   - date: "2026-08-15"
     events:
       - name: HW 2
