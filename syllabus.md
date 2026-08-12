@@ -75,7 +75,7 @@ Lectures are pre-recorded and posted on [the course website](https://dsc-courses
 
 There are **18 lectures** spread across 5 weeks. The schedule and all recordings are available on the [course homepage](https://dsc-courses.github.io/DSC40B-SU26/).
 
-**Each week's lectures are released in two batches, twice a week: Monday at 9:00 AM PT and Wednesday at 9:00 AM PT.** That week's homework is released on Tuesday (see the Homeworks section below.)
+**Each week's lectures are released in two batches, twice a week: Monday at 12:00 PT and Wednesday at 12:00 PM PT.** That week's homework is released on Tuesday (see the Homeworks section below.)
 
 You are expected to watch all lecture modules and complete the associated readings from the [course notes](https://dsc40b.com/materials/default/notes/book.pdf) each week. You may be able to start the homework after watching half of the lectures, but finishing the homework will require knowledge from all lectures.
 
@@ -91,9 +91,9 @@ There are **5 homework assignments** this quarter, one per week. Homeworks are t
 
 **If you submit a handwritten homework, you will receive one warning. Any subsequent handwritten submission will incur a 25% penalty.**
 
-You may talk to other students in the class about the problems and discuss solution strategies, but you should not share any written communication. You can tell someone how to do a homework problem, but you cannot show them how to do it. The content of your collaboration should involve problem-solving strategy and approach, and you should not directly compare answers with classmates.
+You may talk to other students in the class about the problems and discuss solution strategies, but you should not share any written communication. You can tell someone how to approach a homework problem, but it must remain superficial. The content of your collaboration should involve problem-solving strategy and approach, however you should not directly compare implementative answers with classmates.
 
-For each problem you submit, you should cite your sources by including a list of names of other students with whom you discussed the problem. Course staff does not need to be cited.
+For each homework you submit, you should cite your sources by including a list of names of other students with whom you discussed the problem, or external resources you used to figure out the problem. Course staff does not need to be cited, nor do the course notes.
 
 ### Office Hours
 
