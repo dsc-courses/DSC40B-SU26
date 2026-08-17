@@ -29,7 +29,7 @@ days:
         title: Hashing III
       - name: LEC 11
         type: lecture
-        title: Graph Theory & BFS
+        title: Graph Theory & Intro BFS
         reading: "3.1-3.3"
   - date: "2026-08-22"
     events:
