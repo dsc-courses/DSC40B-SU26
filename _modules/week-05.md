@@ -6,13 +6,13 @@ days:
     events:
       - name: LEC 15
         type: lecture
-        title: Prim
+        title: Dijkstra's Algorithm
       - name: LEC 16
         type: lecture
-        title: Kruskal
+        title: Prim's Algorithm
       - name: LEC 17
         type: lecture
-        title: NP completeness*
+        title: Kruskal's Algorithm
   - date: "2026-09-05"
     events:
       - name: HW 5

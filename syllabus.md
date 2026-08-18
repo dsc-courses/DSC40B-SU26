@@ -171,13 +171,13 @@ Here's how we will compute your grade.
 
 #### Homeworks
 
-Instead, if you need extra time on an assignment, you can request an extension [here](). All students will receive a singular one time one day extension with no questions asked that can apply only to homeworks. After that one day extension is used, staff reserves the right to review the reason for your request to either accept or decline it. All extensions will be granted on the order of days, not hours, so the shortest extension any student will be granted is 24 hours or one day; this means all deadlines will remain at 11:59PM unless otherwise stated.
+Instead, if you need extra time on an assignment, you can request an extension by making a private Piazza post. All students will receive two one-day extensions with no questions asked that can apply only to homeworks. They are not stackable. All extensions will be granted on the order of days, not hours, so the shortest extension any student will be granted is 24 hours or one day; this means all deadlines will remain at 11:59PM unless otherwise stated.
 
 **NOTE** We will try to respond to extension requests as quickly as possible, however, we are human (and in different time zones), so if you request an extension outside of business hours, please don't expect a response until the next business day. This means, if you think you will need more time on an assignment it is better to request an extension earlier rather than later.
 
 **NOTE** No extension requests after the 11:59pm deadline of the respective assignment will be accepted other than in extreme circumstances at the discretion of the instructor. So again, please request extensions sooner rather than later so you don't miss this deadline.
 
-**NOTE** The last deadline by which we will accept any work from this quarter is TBD (the day of the final exam). After this deadline no work will be accepted because we need to submit final grades.
+**NOTE** The last deadline by which we will accept any work from this quarter is September 5th. **This means that Homework 5 has no late deadline and no opportunity to use a late pass (and, in fact, you are encouraged to submit it before the final, as it is review).** After this deadline no work will be accepted because we need to submit final grades.
 
 **If you have something going on in your life that is impeding your ability to do your classwork on time, please reach out to us as soon as possible so we can work something out.**
 

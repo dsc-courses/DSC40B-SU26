@@ -6,17 +6,18 @@ days:
     events:
       - name: LEC 11
         type: lecture
-        title: BFS shortest path
+        title: Graph Theory & BFS I
+        reading: "3.1-3.3"
       - name: LEC 12
+        type: lecture
+        title: BFS II and Shortest Path
+      - name: LEC 13
         type: lecture
         title: DFS
         reading: "3.4"
-      - name: LEC 13
-        type: lecture
-        title: Bellman-Ford
       - name: LEC 14
         type: lecture
-        title: Dijkstra
+        title: Bellman-Ford Algorithm
   - date: "2026-08-29"
     events:
       - name: HW 4
