@@ -1,5 +1,5 @@
 ---
-title: "Week 3 – Hashing and Graphs"
+title: "Week 3 – Hashing"
 weekNumber: 3
 days:
   - date: "2026-08-17"

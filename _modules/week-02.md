@@ -1,5 +1,5 @@
 ---
-title: "Week 2 – Searching, Sorting, and Trees"
+title: "Week 2 – Searching and Sorting"
 weekNumber: 2
 days:
   - date: "2026-08-10"

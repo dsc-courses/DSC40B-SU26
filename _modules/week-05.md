@@ -1,5 +1,5 @@
 ---
-title: "Week 5 – Minimum Spanning Trees and NP-Completeness"
+title: "Week 5 – Greedier Graph Traversals"
 weekNumber: 5
 days:
   - date: "2026-08-31"

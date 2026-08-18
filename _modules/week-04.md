@@ -1,5 +1,5 @@
 ---
-title: "Week 4 – Graph Search and Shortest Paths"
+title: "Week 4 – Graphs"
 weekNumber: 4
 days:
   - date: "2026-08-24"
