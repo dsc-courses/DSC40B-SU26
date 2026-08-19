@@ -21,13 +21,13 @@ days:
       - name: HW 3
         type: hw
         title: Homework 3
-        # problems: resources/homeworks/hw2.pdf
+        problems: resources/homeworks/hw3.pdf
   - date: "2026-08-19"
     events:
       - name: LEC 10
         type: lecture
         title: Hashing III
-  - date: "2026-08-22"
+  - date: "2026-08-24"
     events:
       - name: HW 3
         type: hw
