@@ -27,6 +27,9 @@ days:
       - name: LEC 10
         type: lecture
         title: Hashing III
+        blank: resources/lectures/lec10/Lecture_10_blank.pdf
+        filled: resources/lectures/lec10/Lecture_10_inked.pdf
+        video:   https://youtu.be/7jcxsZeknao
   - date: "2026-08-24"
     events:
       - name: HW 3
