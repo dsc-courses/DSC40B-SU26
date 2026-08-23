@@ -6,18 +6,18 @@ days:
     events:
       - name: LEC 11
         type: lecture
-        title: Graph Theory & BFS I
+        title: Graph Theory & BFS
         reading: "3.1-3.3"
+        blank: resources/lectures/lec11/Lecture_11_blank.pdf
+        filled: resources/lectures/lec11/Lecture_11_inked.pdf
+        video:   https://youtu.be/Xv2gnyJdboM
       - name: LEC 12
         type: lecture
-        title: BFS II and Shortest Path
-      - name: LEC 13
-        type: lecture
-        title: DFS
+        title: DFS & Topological Sort
         reading: "3.4"
-      - name: LEC 14
-        type: lecture
-        title: Bellman-Ford Algorithm
+        blank: resources/lectures/lec12/Lecture_12_blank.pdf
+        filled: resources/lectures/lec12/Lecture_12_inked.pdf
+        video:   https://youtu.be/y-5eVJcJLEo
   - date: "2026-08-29"
     events:
       - name: HW 4

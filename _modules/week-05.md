@@ -1,18 +1,20 @@
 ---
-title: "Week 5 – Greedier Graph Traversals"
+title: "Week 5 – Greedy Graph Traversals and Flow"
 weekNumber: 5
 days:
   - date: "2026-08-31"
     events:
       - name: LEC 15
         type: lecture
-        title: Dijkstra's Algorithm
+        title: Dijkstra's, A*, Prim's, and Kruskal's Algorithm
       - name: LEC 16
         type: lecture
-        title: Prim's Algorithm
-      - name: LEC 17
-        type: lecture
-        title: Kruskal's Algorithm
+        title: Flow
+  - date: "2026-09-04"
+    events:
+      - name: Final Exam
+        type: exam
+        title: Final Exam (See Piazza)  
   - date: "2026-09-05"
     events:
       - name: HW 5
