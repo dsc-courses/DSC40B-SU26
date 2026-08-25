@@ -18,6 +18,12 @@ days:
         blank: resources/lectures/lec12/Lecture_12_blank.pdf
         filled: resources/lectures/lec12/Lecture_12_inked.pdf
         video:   https://youtu.be/y-5eVJcJLEo
+  - date: "2026-08-25"
+    events:
+      - name: HW 4
+        type: hw
+        title: Homework 4
+        problems: resources/homeworks/hw04.pdf
   - date: "2026-08-29"
     events:
       - name: HW 4
