@@ -4,9 +4,9 @@ weekNumber: 5
 days:
   - date: "2026-08-29"
     events:
-      - name: HW 5 (Final Exam Review)
+      - name: HW 5
         type: hw
-        title: Homework 5
+        title: Homework 5 (Final Exam Review)
         problems: resources/homeworks/hw05.pdf
   - date: "2026-08-31"
     events:
