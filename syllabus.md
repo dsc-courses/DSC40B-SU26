@@ -57,7 +57,7 @@ We will be using several websites this quarter. Here's what they're all used for
 - [Piazza](): Discussion forum for announcements and communication.
 - [Gradescope](https://www.gradescope.com): Platform for submitting assignments and viewing grades. You should be automatically added to Gradescope within 24 hours of enrolling.
 
-**Canvas is not being used this quarter. All course content, deadlines, and announcements live on [the course website](https://dsc-courses.github.io/DSC40B-SU26/) and Piazza.**
+**Canvas is not being used this quarter, other than for delivery of the final exam's PDF. All course content, deadlines, and announcements live on [the course website](https://dsc-courses.github.io/DSC40B-SU26/) and Piazza.**
 
 ---
 
@@ -73,7 +73,7 @@ Lectures are pre-recorded and posted on [the course website](https://dsc-courses
 - **Module B (20–25 min):** Algorithm/proof mechanics: pseudocode, correctness arguments, complexity derivation.
 - **Module C (10–15 min, when applicable):** Worked examples, edge cases, and exam-style problems.
 
-There are **18 lectures** spread across 5 weeks. The schedule and all recordings are available on the [course homepage](https://dsc-courses.github.io/DSC40B-SU26/).
+There are **13 lectures** spread across 5 weeks. The schedule and all recordings are available on the [course homepage](https://dsc-courses.github.io/DSC40B-SU26/).
 
 **Each week's lectures are released in two batches, twice a week: Monday at 12:00 PT and Wednesday at 12:00 PM PT.** That week's homework is released on Tuesday (see the Homeworks section below.)
 
@@ -120,16 +120,31 @@ All deadlines are in **Pacific Time (PT)**. The most up-to-date schedule is alwa
 
 There is **one exam** in this course: the **Final Exam**, worth **35%** of your overall grade. There is no midterm.
 
+**The Final Exam is on Friday, September 4th.** Homework 5 (the final exam review) is due the day before, on Thursday, September 3rd. The extension and drop policies described in the Homeworks and Policies sections above apply to Homework 5 as well.
+
+### Signing up for a time slot
+
+Sign up for a 65-minute exam time slot using the signup form (TODO). You should do this by Thursday, September 3rd. If you need to change your slot after signing up, make a private Piazza post.
+
 ### Format
 
 The Final Exam is designed to operate like a **technical interview**. Here is how it works:
 
-1. **Book a 1-hour slot** on Calendly (TODO). The exam window and available slots will be announced in advance.
-2. **At the start of your slot**, begin a Zoom recording with your camera on and screen shared (one monitor only). Only you should be in the Zoom meeting room, and your area should be free of distractions.
-3. **At :05 past the hour**, an email will be automatically sent to your @ucsd.edu address containing a PDF with **3 exam questions**. Each student receives a **different subset** of questions.
-4. **Answer only 1** of the 3 questions. The three questions cover different parts of the course, so you can choose the topic you are most comfortable with.
-5. You have the remainder of your hour (approximately 55 minutes) to work through the question. 
-6. Submit your Zoom recording link and any supporting work to Gradescope.
+1. **Before your slot begins**, start a private Zoom recording. I recommend starting it a minute or two early. Your camera must be on and you must be visible for the whole exam, and you may only have a **single display connected** (disconnect any extra monitors). Violating any of these may result in a zero on the exam.
+2. **At the start of your slot**, open your exam under the **Quizzes** section on Canvas. This is a **single-attempt** quiz, so once you begin, there is no going back. The quiz contains an attachment with your exam questions, which you can view in Canvas or download to a separate tab.
+3. You will receive **3 questions** spanning the breadth of the course's focus (sorting, hashing, and graphs), and should answer only **1** of them. Each question has multiple parts, similar in style to the homeworks. This means part of the exam is choosing the tradeoff that plays to your strengths. Though, I'd still recommend studying all the material, in case your strongest topic is one you'd rather save for a better opportunity elsewhere.
+4. You have **65 minutes**, or until you finish, whichever comes first. Write your answer in a Google Doc or Word document, which you will export to PDF for submission to Gradescope.
+
+This exam is individual, and you should not talk during it.
+
+### What you may use
+
+- **Wolfram**, for hash modulo computations.
+- **Excalidraw**, for diagramming and scratch work.
+- **Canvas**, **Gradescope**, and **the course website**, for the logistics above.
+- Your **personal notes**, up to **6 pages**, digital only. These must be compiled into a single PDF and submitted to Gradescope **before your exam slot begins**. If you use notes without submitting them ahead of time, you will receive a **30-point penalty**. If you don't plan on using notes, you don't need to submit anything.
+
+**No other internet use or generative AI tools are permitted during the exam.**
 
 ### What we are looking for
 
@@ -140,17 +155,16 @@ This is not a syntax test. We are evaluating your ability to:
 - **Demonstrate intuition**: whether on a code editor, paper, or whiteboard.
 - **Justify your approach**: explain *why*, not just *what*.
 
+### Submitting the exam
+
+- **Exam PDF:** Export your written answer to PDF and submit it to the **"Final Exam"** assignment on Gradescope. This assignment is time-locked to your chosen slot (1 hour, plus a 5-minute buffer).
+- **Zoom recording:** Save your recording to the cloud so that the link is viewable, then submit the link to the **"Final Exam Zoom Recording"** assignment on Gradescope. Cloud processing can take up to a couple of hours, so plan ahead. This assignment is due **Saturday, September 5th**.
 
 ### Preparation
 
-Before the official exam, we will:
+A full walkthrough video covering this entire procedure from {booking your slot, the Zoom recording and cloud upload, and the Canvas quiz} will be released by Tuesday, September 1st.
 
-- **Release a demo** showing exactly how the exam experience will look.
-- **Provide a test-run opportunity** so you can verify your setup (Zoom recording, screen share, email delivery).
-
-You may assume no two students will receive the same exam, and each exam is individually generated. Asking others in the course for what the exam will look like is going to be futile. Any details they can give you will have already been given.
-
-**The exam date is TBD.**
+If you have any questions about the exam before your slot, make a private Piazza post.
 
 ---
 

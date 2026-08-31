@@ -13,9 +13,9 @@ days:
       - name: LEC 13
         type: lecture
         title: Dijkstra's & A* Algorithm
-      - name: LEC 14
-        type: lecture
-        title: Prim's & Kruskal's Algorithm
+        blank: resources/lectures/lec13/Lecture_13_blank.pdf
+        filled: resources/lectures/lec13/Lecture_13_inked.pdf
+        video:   https://youtu.be/X32WpKJYsSk
   - date: "2026-09-03"
     events:
       - name: HW 5
