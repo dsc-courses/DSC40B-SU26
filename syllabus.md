@@ -124,7 +124,7 @@ There is **one exam** in this course: the **Final Exam**, worth **35%** of your 
 
 ### Signing up for a time slot
 
-Sign up for a 65-minute exam time slot using the signup form (TODO). You should do this by Thursday, September 3rd. If you need to change your slot after signing up, make a private Piazza post.
+Sign up for a 65-minute exam time slot using [the signup form](https://forms.gle/b1SGep5HTdXf7pa56 ). You should do this by Thursday, September 3rd. If you need to change your slot after signing up, make a private Piazza post.
 
 ### Format
 
